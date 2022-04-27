@@ -5,4 +5,4 @@ A 42 São Paulo é uma escola de programação que forma Human Coders e os certi
 O Basecamp é a imersão de 20 dias que faz parte do processo seletivo.
 
 
-Obs.: atualizar com os exames
+Obs.: atualizar com os exames.
